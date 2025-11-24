@@ -1,5 +1,5 @@
-baseURL: https://sinabro.netlify.app/
-title: sinabro's blog
+baseURL: https://sno0owp.netlify.app/
+title: snow's blog
 
 languageCode: ko-kr
 DefaultContentLanguage: ko  # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
@@ -67,10 +67,10 @@ markup:
 params:
   author: Seungho Park
   description: Strive to become a Software Engineer Specialist in Working & Growing Together for Reformation Technology.
-  github: sinabro-dev
+  github: sno0ow-p
   # facebook:
   # twitter:
-  linkedin: https://www.linkedin.com/in/sinabro-dev/
+  linkedin: https://www.linkedin.com/in/sno0ow/
   # instagram:
   # tumblr:
   email: sinabro2dev@gmail.com
@@ -80,7 +80,7 @@ params:
   lastmod: true
   favicon: "/images/avatar.png"
   location: Korea
-  userStatusEmoji: 😶
+  userStatusEmoji: 🙂
   # links:
   #   - title: link A
   #     href: https://github.com/joonparkhere
